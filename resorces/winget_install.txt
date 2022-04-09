@@ -1,0 +1,11 @@
+Microsoft.PowerToys
+Microsoft.OpenJDK.17
+Microsoft.WIndowsTerminal
+Microsoft.VisualStudioCode
+JetBrains.IntelliJIDEA.Ultimate
+JetBrains.DataGrip
+SlackTechnologies.Slack
+Git.Git
+Docker.DockerDesktop
+SourceFoundry.HackFonts
+DevToys
